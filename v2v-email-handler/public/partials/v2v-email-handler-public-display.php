@@ -8,8 +8,8 @@
  * @link       http://example.com
  * @since      1.0.0
  *
- * @package    Plugin_Name
- * @subpackage Plugin_Name/public/partials
+ * @package    V2V_Email_Handler
+ * @subpackage V2V_Email_Handler/public/partials
  */
 ?>
 
