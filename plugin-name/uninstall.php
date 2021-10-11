@@ -22,7 +22,7 @@
  * @link       http://example.com
  * @since      1.0.0
  *
- * @package    V2V_Email_Handler
+ * @package    Plugin_Name
  */
 
 // If uninstall not called from WordPress, then exit.

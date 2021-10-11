@@ -6,8 +6,8 @@
  * @link       http://example.com
  * @since      1.0.0
  *
- * @package    V2V_Email_Handler
- * @subpackage V2V_Email_Handler/includes
+ * @package    Plugin_Name
+ * @subpackage Plugin_Name/includes
  */
 
 /**
@@ -17,11 +17,11 @@
  * the plugin, and register them with the WordPress API. Call the
  * run function to execute the list of actions and filters.
  *
- * @package    V2V_Email_Handler
- * @subpackage V2V_Email_Handler/includes
+ * @package    Plugin_Name
+ * @subpackage Plugin_Name/includes
  * @author     Your Name <email@example.com>
  */
-class V2V_Email_Handler_Loader {
+class Plugin_Name_Loader {
 
 	/**
 	 * The array of actions registered with WordPress.
